@@ -93,7 +93,7 @@ If you find our work useful for your research, please consider citing our paper 
 @inproceedings{fioresi2026privacy,
   title     = {Privacy Beyond Pixels: Latent Anonymization for Privacy-Preserving Video Understanding},
   author    = {Fioresi, Joseph and Dave, Ishan Rajendrakumar and Shah, Mubarak},
-  booktitle = {International Conference on Learning Representations (ICLR)},
+  booktitle = {International Conference on Learning Representations},
   year      = {2026}
 }
 ```
