@@ -1,0 +1,10 @@
+ckpt/
+__pycache__/
+*.h5
+*.pth
+saved_models/
+wandb/
+logs/
+*.tar
+mgfn/i3d_crimes_baseline.pkl
+mgfn/mae_crimes_baseline.pkl
